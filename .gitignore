@@ -1,0 +1,45 @@
+# Compiled source files
+*.out
+*.o
+*.obj
+*.exe
+*.elf
+*.bin
+
+# Default GCC output file
+a.out
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.so
+*.dylib
+*.dll
+*.lib
+*.a
+
+# Debug / log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+# Build directories
+/build/
+/dist/
+/Debug/
+/Release/
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Backup files
+*~
